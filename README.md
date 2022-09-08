@@ -12,7 +12,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Analysis is provided using EDA for the defaulty pattern in the dataset
+- Analysis is provided using EDA to identify and explore the data patterns linked to Terrorist activities.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
