@@ -3,11 +3,13 @@
 
 ## Table of Contents
 * [General Info]
+[Conclusions]
 * [Technologies Used]
-* [Conclusions]
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+- Unlike natural disasters, which can be predicted sometimes,but cannot be bought under control, terrorist attacks can be be stopped with prior information.
+- In this notebook we try to analyse the Terrorism data set and figure out the patterns killed to these attacks.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
